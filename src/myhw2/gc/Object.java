@@ -12,7 +12,6 @@ public class Object {
         double[] objects = new double[count];
 
         for (int i = 0; i < count ; i++) {
-
             int object = i;
             objects [i] = (double) object;
 
