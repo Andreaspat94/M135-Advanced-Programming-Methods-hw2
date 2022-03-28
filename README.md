@@ -1,1 +1,1 @@
-# Myhw2
+# Java garbage collector assignment
